@@ -14,6 +14,8 @@ This uses an ESP01 board with 5/3.3v adapter with ser2net software.
 
 I recently found a config for ESPHome (which has my preference, but I switched back, as it wasn't very stable.
 You will find a configureation example here https://github.com/aceindy/Duepi_EVO/blob/main/ESPHome/duepi-pelletstove.yaml
+Recently mvroosmalen rewrote the config for ESPHome created a stable working solution (tested on DuroFlame Rembrand).  
+Take and look here [ESPhome-Duepi-link](https://github.com/mvroosmalen1970/ESPHome-Duepi/tree/main) and give feedback when its working on your stove.    
 
 
 ### ESPLink works for sure:
